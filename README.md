@@ -1,4 +1,4 @@
 BRNOTE for ios
 =================
 BRNOTE not just a notebook! 
-test
+1.1
