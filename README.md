@@ -1,3 +1,3 @@
 BRNOTE for ios
-BRNOTE not just a notebook! 
 =================
+BRNOTE not just a notebook! 
