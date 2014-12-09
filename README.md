@@ -1,2 +1,4 @@
-BR note for ios
+BRNOTE for ios
+
+BRNOTE not just a notebook! 
 =================
