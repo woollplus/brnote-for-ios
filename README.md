@@ -10,7 +10,7 @@ Determine the notes framework, make simple organization.
 <br/>
 Strengthen the stability framework written notes, UPYUN SDK, increase the service stability.
 
-2014.12.09 1.2
+2014.12.11 1.2
 <br/>
 
 Preview：
