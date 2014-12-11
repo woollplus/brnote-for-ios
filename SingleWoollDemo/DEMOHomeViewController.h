@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface DEMOHomeViewController : UIViewController
+#import "AnimateTabbar.h"
+@interface DEMOHomeViewController : UIViewController<AnimateTabbarDelegate>
 
 @end
